@@ -8,11 +8,11 @@ Alternative installation is possible without local dependencies relying on [Dock
 
 Clone the repository
 
-    git clone git@github.com:gothinkster/laravel-realworld-example-app.git
+    git clone git@github.com:SmithuIzudheen/url-shortener.git
 
 Switch to the repo folder
 
-    cd laravel-realworld-example-app
+    cd url-shortener
 
 Install all the dependencies using composer
 
